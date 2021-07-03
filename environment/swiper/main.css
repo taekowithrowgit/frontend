@@ -1,0 +1,60 @@
+.carouselsection{
+    margin: 30px 0;
+}
+.swiper-wrapper {
+    width: 100vw;
+}
+.swiper-slide {
+    width: 90vw;
+    
+}
+/* ======= First Slide ======== */
+.curriculumhead{
+    width: 80vw;
+    margin: 8px;
+    padding: 10px;
+    border: #ffc000 solid 2px;
+    margin-left: 5%;
+}
+.curriculumexplanation{
+    display: flex; 
+    width: 80vw;
+    height: auto
+    
+}
+.curriculumexplanation h2{
+    color: gray;
+    font-size: 25px;
+}
+.curriculumbottom {
+    height: auto;
+}
+.curriculumbottomdiv {
+    margin: 10px;
+}
+.curriculumbottomdiv img{
+    width: 70%;
+    margin-left: 10%;
+    margin-left: 10%;
+}
+/* ======= Second Slide ======= */
+
+.catalogleftdiv {
+margin-top: 70px;
+margin-left: 2%;
+}
+
+.catalogleftdiv img {
+display: flex;
+width:100%;
+max-width: 350px;
+
+}
+
+.catalogrightdiv {
+font-size: 20px; 
+font-weight: 600;
+display: flex;
+background-color:pink;
+}
+

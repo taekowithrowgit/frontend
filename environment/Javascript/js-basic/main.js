@@ -1,0 +1,3 @@
+alert("こんにちわ")
+
+prompt("aaa");
